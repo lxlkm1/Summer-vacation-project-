@@ -1,0 +1,18 @@
+#pic1{
+    
+    
+    width: 60px;
+    height: 100px;
+}
+#HeaderAli{
+    display: inline-block;
+    color: red;
+    position:absolute;
+    height: 60px;
+    left: 60px;
+    font-size: 30px;
+}
+#Body{
+    position: relative;
+    margin: 0 auto;
+}

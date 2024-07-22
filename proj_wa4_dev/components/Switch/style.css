@@ -1,0 +1,11 @@
+#swiBoard{
+    width: 1920px;
+    height: 1080px;
+    /* background-color: brown; */
+}
+#swiBut{
+    width: 180px;
+    height: 60px;
+    background-color: aliceblue;
+    margin: 0 auto;
+}

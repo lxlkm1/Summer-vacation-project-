@@ -1,0 +1,72 @@
+.head{
+    width: 50px;
+    height: 60px;
+    text-align: center;
+    border: 2px solid red;
+}
+#top{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    width: 350px;
+    border: 2px solid red;
+   
+}
+body{
+    width: 350px;
+}
+.common{
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid blueviolet;
+}
+.notBelongingTo{
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid rgb(0, 0, 0);
+
+}
+#control{
+    position: relative;
+    height: 60px;
+    width: 350px;
+    margin-top: 1px;
+    border: 2px solid rgb(194, 24, 157);
+}
+button{
+    position: absolute;
+    width: 40px;
+    height: 30px;
+    top: 12px;
+}
+.lastYear{
+    left: 10px;
+}
+.nextYear{
+    left: 300px;
+}
+.lastMouth{
+    left: 60px;
+}
+.nextMouth{
+    left: 250px;
+}
+#dateShow{
+    position: relative;
+    width: 100px;
+    height: 45px;
+    border: 2px solid rgb(37, 17, 17);
+    text-align: center;
+    left: 125px;
+    top: 6px;
+}
+.selected{
+    width: 50px;
+    height: 40px;
+    text-align: center;
+    border: 2px solid rgb(255, 90, 1);
+    background-color: yellow;
+
+}

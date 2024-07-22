@@ -1,0 +1,17 @@
+.cs142-topbar-appBar {
+  height: 60;
+  justify-content: "center";
+}
+
+
+#left{
+  display: inline;
+  position: absolute;
+  left: 10px;
+}
+#right {
+  display: inline;
+  position: absolute;
+  right: 10px;
+}
+

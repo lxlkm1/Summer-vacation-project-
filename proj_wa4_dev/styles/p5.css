@@ -1,0 +1,29 @@
+#run{
+    width: 190px;
+    height: 70px;
+}
+.block{
+    margin-top: 10px;
+    display: inline-block;
+    width: 150px;
+    height: 80px;
+    background-color: rgb(0, 0, 0);
+    font-size: 30px;
+    margin-left: 10px;
+    text-align: center;
+    padding-top: 15px;
+    text-decoration: none;
+    
+}
+.lk{
+    text-decoration: none;
+    color: aliceblue;
+}
+#top{
+    height: 120px;
+    background-color: aliceblue;
+    
+}
+.block:hover{
+    background-color: rgb(235, 197, 12);
+}
